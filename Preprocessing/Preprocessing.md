@@ -8,4 +8,4 @@
 
 4. [SpaCy](https://github.com/dashapopova/CompSemantics/blob/main/Preprocessing/spaCy.ipynb)
 
-5. 
+5. [Stanza](https://github.com/dashapopova/CompSemantics/blob/main/Preprocessing/spaCy.ipynb)
