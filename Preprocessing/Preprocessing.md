@@ -6,6 +6,6 @@
 
 3. [UDPipe](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/Udpipe_1.ipynb) (материалы прошлого года по программированию)
 
-4. [SpaCy](https://github.com/hse-ling-python/seminars/blob/master/UDPipe/spaCy.ipynb)
+4. [SpaCy](https://github.com/dashapopova/CompSemantics/blob/main/Preprocessing/spaCy.ipynb)
 
 5. 
