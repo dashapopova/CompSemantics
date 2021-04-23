@@ -17,7 +17,7 @@
 
 **Timeline**
 
-1. до 7 июня -- определяемся с темой, статьями, вписываем тему, идею, статьи и т.п. в [таблицу](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing) (вкладка Темы эссе)
+1. до 7 июня -- Вы определяетесь с темой, статьями, вписываете тему, идею, статьи и т.п. в [таблицу](https://docs.google.com/spreadsheets/d/12e1FOVfFTfMDXthu1XsSK1MkcpB_4hUJHfJ8If2xcsE/edit?usp=sharing) (вкладка Темы эссе)
 
 2. до 11 июня -- мы комментируем тему, статьи и т.п.
 
