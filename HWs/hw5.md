@@ -16,3 +16,10 @@
 
 | | r1 | r2 | r3 |
 | 'шляпа' | 1 | 1 | 0 |
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
